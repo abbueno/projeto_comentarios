@@ -26,7 +26,7 @@
         <h2>Deixe seu comentário</h2>
         <form method="POST">
         <img src="images/perfil.png" alt="">
-        <textarea name="texto" placeholder="Participe da discussão"></textarea>
+        <textarea name="texto" placeholder="Participe da discussão" maxlength="400"></textarea>
         <input type="submit" value="PUBLICAR COMENTARIO">
     </form>
         <div class="area-comentario">
