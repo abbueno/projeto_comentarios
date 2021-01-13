@@ -10,7 +10,7 @@
 <nav>
             <ul>
                 <li><a href="index.php">Início</a></li>
-                <li><a href="">Entrar</a></li>
+                <li><a href="entrar.php">Entrar</a></li>
             </ul>    
 </nav>
 <div id="largura-pagina">
