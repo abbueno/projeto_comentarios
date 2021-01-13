@@ -9,7 +9,7 @@
 <body>
     <nav>
         <ul>
-            <li><a href="">Discussão</a></li>
+            <li><a href="discussao.php">Discussão</a></li>
             <li><a href="">Entrar</a></li>
         </ul>    
     </nav>
