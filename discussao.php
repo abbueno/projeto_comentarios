@@ -33,7 +33,7 @@
 	<div id="largura-pagina">
 		<section id="conteudo1">
 			<h1>Guia Definitivo Como Criar um Blog Incrível e Ganhar Dinheiro Com Ele</h1>
-			<img src="IMAGENS/computador.jpg">
+			<img src="IMAGES/computador.jpg">
 			<p class="texto">É um fato há muito estabelecido que um leitor se distrairá com o conteúdo legível de uma página ao analisar seu layout. O ponto de usar o Lorem Ipsum é que ele tem uma distribuição de letras mais ou menos normal, em vez de usar 'Conteúdo aqui, conteúdo aqui'.</p>
 			<p class="texto">1. O ponto de usar o Lorem Ipsum</p>
 			<p class="texto">2. È que ele tem uma distribuição de letras</p>
@@ -54,7 +54,7 @@
 				if(isset($_SESSION['id_usuario']) || isset($_SESSION['id_master']))
 				{ ?>
 					<form method="POST">
-						<img src="IMAGENS/perfil.png">
+						<img src="IMAGES/perfil.png">
 						<textarea name="texto" placeholder="Participe da discussão" maxlength="400"></textarea>
 						<input type="submit" value="PUBLICAR COMENTARIO">
 					</form>
@@ -68,7 +68,7 @@
 				foreach ($coments as $v) 
 				{ ?>
 					<div class="area-comentario">
-						<img src="IMAGENS/perfil.png">
+						<img src="IMAGES/perfil.png">
 						<h3><?php echo $v['nome_pessoa']; ?></h3>
 						<h4>
 							<?php
@@ -101,7 +101,7 @@
 		</section>
 		<section id="conteudo2">
 			<div>
-				<img src="IMAGENS/img-lateral.jpg">
+				<img src="IMAGES/img-lateral.jpg">
 				<p>Analisar seu layout. O ponto de usar o Lorem Ipsum é que ele tem uma distribuição de letras mais ou menos normal, em vez de usar 'Conteúdo aqui, conteúdo aqui'.</p>
 			</div>
 		</section>
