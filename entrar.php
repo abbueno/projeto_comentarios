@@ -6,7 +6,7 @@
 	<link rel="stylesheet" href="CSS/entrar.css">
 </head>
 <body>
-	<span>Miriam<br>TECHCOD</span>
+	<span>Allan<br>DEV</span>
 	<form method="POST">
 		<h1>Acesse a sua conta</h1>
 		<img src="IMAGENS/envelope.png">

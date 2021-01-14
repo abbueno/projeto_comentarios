@@ -13,7 +13,7 @@ body{
 
 form{
     width: 350px;
-	margin: 60px auto;
+	margin: 60px auto 10px auto;
 	background-color: white;
 	padding: 25px;
     box-shadow: 1px 1px 10px rgba(0,0,0,.4);
@@ -54,4 +54,12 @@ input[type=submit]
 
 label{
     display: block;
+}
+
+
+.mensagem{
+	text-align: center;
+	background-color: rgba(0,0,0,.1);
+	border: 1px solid rgba(0,0,0,.3);
+	padding: 15px;
 }
