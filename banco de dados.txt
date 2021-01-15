@@ -19,3 +19,10 @@ create table comentarios
     fk_id_usuario int,
     FOREIGN key(fk_id_usuario) REFERENCES usuarios(id)
 );
+
+
+
+
+
+Curso da playlist abaixo
+https://www.youtube.com/playlist?list=PLYGFJHWj9BYr6O83uNfGbuskbQJk9ASs_
